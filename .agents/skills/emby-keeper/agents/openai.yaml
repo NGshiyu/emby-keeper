@@ -1,0 +1,6 @@
+interface:
+  display_name: "Emby Keeper"
+  short_description: "Repo-specific patterns and workflows for emby-keeper"
+  default_prompt: "Use the emby-keeper repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
